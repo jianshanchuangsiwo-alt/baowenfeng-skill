@@ -7,18 +7,17 @@
 - https://www.npmjs.com/login?next=/login/cli/b275b745-d892-49d0-a609-599d1e0f4b36（哭死）
 
 # 使用教程
-- npm安装或把skill.md文件发给你的chatAI 
+- npm安装,一般AI敲\会自动加载出这个skill
+- 在对话里把skill.md文件发给你的chatAI，它也能读取到markdown文件
 
 # 下载
 
 - 通过 npm 安装：
-
 ```bash
 npm install baowenfeng
 ```
 
 - CLI：
-
 ```bash
 npx baowenfeng
 ```
