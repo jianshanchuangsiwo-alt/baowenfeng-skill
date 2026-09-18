@@ -16,8 +16,8 @@
 ```bash
 npm install baowenfeng
 
-#CLI：
-```bash
+- CLI：
+bash
 npx baowenfeng
 
 
