@@ -6,7 +6,7 @@
 - 发布npm包遇到了一点小问题，几经周折终于发布成功了
 - https://www.npmjs.com/login?next=/login/cli/b275b745-d892-49d0-a609-599d1e0f4b36（哭死）
 
-#使用教程
+# 使用教程
 - npm安装或把skill.md文件发给你的chatAI 
 
 # 下载
@@ -16,6 +16,8 @@
 ```bash
 npm install baowenfeng
 
-- CLI:
+#CLI：
 ```bash
 npx baowenfeng
+
+
