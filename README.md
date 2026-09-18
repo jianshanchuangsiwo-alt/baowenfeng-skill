@@ -15,9 +15,11 @@
 
 ```bash
 npm install baowenfeng
+```
 
 - CLI：
-bash
-npx baowenfeng
 
+```bash
+npx baowenfeng
+```
 
