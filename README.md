@@ -10,9 +10,15 @@
 - 发布npm包遇到了一点小问题，几经周折终于发布成功了
 - [NPM](https://www.npmjs.com/login?next=/login/cli/b275b745-d892-49d0-a609-599d1e0f4b36)
 
+---
+
 # 使用教程
-1. npm安装,一般AI对话`/`会自动加载出这个skill
-2. 在对话里把skill.md文件发给你的chatAI，它也能读取到markdown文件
+1. **npm安装之后，`/`会自动加载出这个skill**
+  - (好像有一点问题，有些ai不会加载出来)
+2. **在对话里把skill.md文件发给你的chatAI，它也能读取到markdown文件**
+  - (最稳妥的方式)
+  
+---
 
 # 下载方式
 
