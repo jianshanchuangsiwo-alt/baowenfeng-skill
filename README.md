@@ -1,4 +1,4 @@
-![BWF](https://files.deepseeksvc.com/api/file?file_id=cf4fb85a-6ada-4cc4-aaed-b1ff32434d00&state=CQY00Lrv5Cse6O5zNKH6B5hSNvvF2BuIrgxcQLb2Q0x1C0UUKy9FoMhpkFdnbAOF5znOyOeEBOqehaxhzVv4W7Sdgl%2FuJo1H5fmhMNca5P7%2FCeUZTwxcZkMDs8cqf5nlT8PxRB%2B4Xcf4QoV7y0KUnMMEpO7PCX8PzG8vybcXooZeJyin6s4PlebWrrNMR4%2B4R%2FJllUMMpINiuiidKMUZFa7gcuT1ijKFwLtkHy2bagn9zTQWMOh0lyr%2FzPNYmIji7uJuIlcXmsVzV%2Fbsoprv51y3ob%2BNHyX6fso5Ht3l8aGw2u%2FpLlnE86OxlyqF7SBOxLUnzzF1M%2FuKkHMTEaBhWHSdlGVR4Kw8e4ieThD2yJqH6nL5mxeMH1HdwJ%2BeQDKbqg%3D%3D&ty=p)
+[![BWF](https://files.deepseeksvc.com/api/file?file_id=cf4fb85a-6ada-4cc4-aaed-b1ff32434d00&state=CQY00Lrv5Cse6O5zNKH6B5hSNvvF2BuIrgxcQLb2Q0x1C0UUKy9FoMhpkFdnbAOF5znOyOeEBOqehaxhzVv4W7Sdgl%2FuJo1H5fmhMNca5P7%2FCeUZTwxcZkMDs8cqf5nlT8PxRB%2B4Xcf4QoV7y0KUnMMEpO7PCX8PzG8vybcXooZeJyin6s4PlebWrrNMR4%2B4R%2FJllUMMpINiuiidKMUZFa7gcuT1ijKFwLtkHy2bagn9zTQWMOh0lyr%2FzPNYmIji7uJuIlcXmsVzV%2Fbsoprv51y3ob%2BNHyX6fso5Ht3l8aGw2u%2FpLlnE86OxlyqF7SBOxLUnzzF1M%2FuKkHMTEaBhWHSdlGVR4Kw8e4ieThD2yJqH6nL5mxeMH1HdwJ%2BeQDKbqg%3D%3D&ty=p)](bilibili.com)
 
 ---
 
@@ -6,7 +6,7 @@
 我的班主任skill，用这个skill让你的chatAI与你进行雷霆的对话.....（吓哭了）
 
 ## markdown文件
-- 由nvwa-skill蒸馏制作
+- 由[nuwa-skill](https://github.com/alchaincyf/nuwa-skill)蒸馏制作
 - 感谢bilibili「花叔」
 
 ## （笑了）
@@ -20,7 +20,9 @@
 1. **npm安装之后，`/`会自动加载出这个skill**
   - (好像有一点问题，有些ai不会加载出来)
 2. **在对话里把skill.md文件发给你的chatAI，它也能读取到markdown文件**
-  - (最稳妥的方式)
+  - (最稳妥的方式，用起来比较麻烦，每次对话都要发一遍这个文件)
+3. **直接把`skill.md`放到AI对应的路径文件下，没有的可以新建一个`skills文件`**
+  - (最实用的方法，基本没有问题，但小白可能比较难受......)
   
 ---
 
@@ -28,7 +30,8 @@
 
 1. 通过**npm**安装：
 ```bash
-npm install baowenfeng
+全局安装
+npm install baowenfeng 
 ```
 
 2. **CLI**：
