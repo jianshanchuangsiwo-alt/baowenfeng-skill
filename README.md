@@ -6,9 +6,11 @@
 
 [![BWF](https://files.deepseeksvc.com/api/file?file_id=cf4fb85a-6ada-4cc4-aaed-b1ff32434d00&state=CQY00Lrv5Cse6O5zNKH6B5hSNvvF2BuIrgxcQLb2Q0x1C0UUKy9FoMhpkFdnbAOF5znOyOeEBOqehaxhzVv4W7Sdgl%2FuJo1H5fmhMNca5P7%2FCeUZTwxcZkMDs8cqf5nlT8PxRB%2B4Xcf4QoV7y0KUnMMEpO7PCX8PzG8vybcXooZeJyin6s4PlebWrrNMR4%2B4R%2FJllUMMpINiuiidKMUZFa7gcuT1ijKFwLtkHy2bagn9zTQWMOh0lyr%2FzPNYmIji7uJuIlcXmsVzV%2Fbsoprv51y3ob%2BNHyX6fso5Ht3l8aGw2u%2FpLlnE86OxlyqF7SBOxLUnzzF1M%2FuKkHMTEaBhWHSdlGVR4Kw8e4ieThD2yJqH6nL5mxeMH1HdwJ%2BeQDKbqg%3D%3D&ty=p)](bilibili.com)
 
+二中出大名了
 
 </div>
----
+
+<hr>
 
 # baowenfeng-skill
 我的班主任skill，用这个skill让你的chatAI与你进行雷霆的对话.....（吓哭了）
@@ -21,7 +23,21 @@
 - 欢迎大家来与我的班主任聊天，他是一个很好的人（也许吧....）
 - 发布npm包遇到了一点小问题，几经周折终于发布成功了
 - 点击[npm](https://www.npmjs.com/login?next=/login/cli/b275b745-d892-49d0-a609-599d1e0f4b36)
-
+---
+```
+| 笑了 | 笑了 | 笑了 | 笑了 | 笑了 | 笑了 | 笑了 |
+| 笑了 | 笑了 | 笑了 | 笑了 | 笑了 | 笑了 | 笑了 |
+| 笑了 | 笑了 | 笑了 | 笑了 | 笑了 | 笑了 | 笑了 |
+| 笑了 | 笑了 | 笑了 | 笑了 | 笑了 | 笑了 | 笑了 |
+| 笑了 | 笑了 | 笑了 | 笑了 | 笑了 | 笑了 | 笑了 |
+| 笑了 | 笑了 | 笑了 | 笑了 | 笑了 | 笑了 | 笑了 |
+| 笑了 | 笑了 | 笑了 | 笑了 | 笑了 | 笑了 | 笑了 |
+| 笑了 | 笑了 | 笑了 | 笑了 | 笑了 | 笑了 | 笑了 |
+| 笑了 | 笑了 | 笑了 | 笑了 | 笑了 | 笑了 | 笑了 |
+| 笑了 | 笑了 | 笑了 | 笑了 | 笑了 | 笑了 | 笑了 |
+| 笑了 | 笑了 | 笑了 | 笑了 | 笑了 | 笑了 | 笑了 |
+| 笑了 | 笑了 | 笑了 | 笑了 | 笑了 | 笑了 | 笑了 |
+```
 ---
 
 # 使用教程
@@ -49,7 +65,7 @@ npx baowenfeng
 ---
 
 # 查看文件
-- 
+- 查看[SKILL](鲍文锋skill.md)
 
 
 
