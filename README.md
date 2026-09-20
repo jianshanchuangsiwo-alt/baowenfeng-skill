@@ -58,13 +58,13 @@
 
 # 下载方式
 
-1. 通过**npm**安装：
+通过**npm**安装：
 ```bash
 全局安装
 npm install baowenfeng 
 ```
 
-2. **CLI**：
+**CLI**：
 ```bash
 npx baowenfeng
 ```
