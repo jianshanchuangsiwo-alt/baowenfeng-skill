@@ -4,7 +4,9 @@
 
 这么帅的班主任谁不喜欢?
 
-[![BWF](https://files.deepseeksvc.com/api/file?file_id=cf4fb85a-6ada-4cc4-aaed-b1ff32434d00&state=CQY00Lrv5Cse6O5zNKH6B5hSNvvF2BuIrgxcQLb2Q0x1C0UUKy9FoMhpkFdnbAOF5znOyOeEBOqehaxhzVv4W7Sdgl%2FuJo1H5fmhMNca5P7%2FCeUZTwxcZkMDs8cqf5nlT8PxRB%2B4Xcf4QoV7y0KUnMMEpO7PCX8PzG8vybcXooZeJyin6s4PlebWrrNMR4%2B4R%2FJllUMMpINiuiidKMUZFa7gcuT1ijKFwLtkHy2bagn9zTQWMOh0lyr%2FzPNYmIji7uJuIlcXmsVzV%2Fbsoprv51y3ob%2BNHyX6fso5Ht3l8aGw2u%2FpLlnE86OxlyqF7SBOxLUnzzF1M%2FuKkHMTEaBhWHSdlGVR4Kw8e4ieThD2yJqH6nL5mxeMH1HdwJ%2BeQDKbqg%3D%3D&ty=p)](www.prohub.com)
+[![BWF](https://files.deepseeksvc.com/api/file?file_id=cf4fb85a-6ada-4cc4-aaed-b1ff32434d00&state=CQY00Lrv5Cse6O5zNKH6B5hSNvvF2BuIrgxcQLb2Q0x1C0UUKy9FoMhpkFdnbAOF5znOyOeEBOqehaxhzVv4W7Sdgl%2FuJo1H5fmhMNca5P7%2FCeUZTwxcZkMDs8cqf5nlT8PxRB%2B4Xcf4QoV7y0KUnMMEpO7PCX8PzG8vybcXooZeJyin6s4PlebWrrNMR4%2B4R%2FJllUMMpINiuiidKMUZFa7gcuT1ijKFwLtkHy2bagn9zTQWMOh0lyr%2FzPNYmIji7uJuIlcXmsVzV%2Fbsoprv51y3ob%2BNHyX6fso5Ht3l8aGw2u%2FpLlnE86OxlyqF7SBOxLUnzzF1M%2FuKkHMTEaBhWHSdlGVR4Kw8e4ieThD2yJqH6nL5mxeMH1HdwJ%2BeQDKbqg%3D%3D&ty=p "点击有惊喜")](https://www.bilibili.com/video/BV1UT42167xb/?share_source=copy_web&vd_source=22418497df3d3ddcafcf2fd7428add01)
+
+
 
 **二中出大名了**
 
@@ -14,6 +16,10 @@
 
 # baowenfeng-skill
 我的班主任skill，用这个skill让你的chatAI与你进行雷霆的对话.....（吓哭了）
+  - [下载方式](#下载方式)
+  - [使用教程](#使用教程)
+  - [查看文件](#查看文件)
+
 
 ## markdown文件
 - 由[nuwa-skill](https://github.com/alchaincyf/nuwa-skill)蒸馏制作
@@ -66,8 +72,12 @@ npx baowenfeng
 
 # 查看文件
 - 查看[SKILL](鲍文锋skill.md)
+- 查看[npm包](baowenfeng-skill)
+
+---
 
 
+> 点击图片有惊喜
 
 
 
