@@ -21,7 +21,7 @@
 - [查看文件](#查看文件)
 
 ## markdown文件
-- 由[nuwa-skill](https://github.com/alchaincyf/nuwa-skill)蒸馏制作
+- 由[nuwa-skill](https://github.com/alchaincyf/nuwa-skill "感谢花叔")蒸馏制作
 - 感谢bilibili「花叔」
 
 ## （笑了）
@@ -76,7 +76,7 @@ npx baowenfeng
 
 # 查看文件
 - 查看[SKILL](鲍文锋skill.md)
-- 查看[npm包](baowenfeng-skill)
+- 查看[npm包](baowenfeng-perspective)
 
 ---
 
